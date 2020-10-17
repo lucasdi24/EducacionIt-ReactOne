@@ -1,3 +1,8 @@
+# Prácticas realizadas para el Curso básico de React Base de Educación IT
+
+En este repositorio Subiré todas las prácticas que deberemos realizar
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
