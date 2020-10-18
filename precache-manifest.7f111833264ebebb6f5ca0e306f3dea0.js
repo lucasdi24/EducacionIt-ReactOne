@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24ad8a113df34badf716a2ebe67763a0",
+    "revision": "9e7eec644975b03fcf2ad119a7960e58",
     "url": "/EducacionIt-ReactOne/index.html"
   },
   {
-    "revision": "12d6e65fb8f1a79a2b3c",
-    "url": "/EducacionIt-ReactOne/static/css/main.8dd85971.chunk.css"
+    "revision": "cfa3883a9e6304a7d3cb",
+    "url": "/EducacionIt-ReactOne/static/css/main.08398f99.chunk.css"
   },
   {
     "revision": "cb90ccc2273b95471e58",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/EducacionIt-ReactOne/static/js/2.16b72719.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "12d6e65fb8f1a79a2b3c",
+    "revision": "cfa3883a9e6304a7d3cb",
     "url": "/EducacionIt-ReactOne/static/js/main.383501e2.chunk.js"
   },
   {
