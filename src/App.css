@@ -65,7 +65,7 @@ li{
 }
 
 li:hover{
-   animation: selectLi 2s infinite;
+   animation: selectLi 1s linear;
 }
 
 .botonAlumnos{
@@ -80,47 +80,11 @@ li:hover{
       box-sizing: border-box;
       font-size: 16px;
    }
-   20%{
+   50%{
       background-color: #dddd;
       padding: 0px 9px;
       box-sizing: border-box;
       font-size: 17px;
-   }
-   30%{
-   background-color: #dddd;
-   padding: 0px 8px;
-   box-sizing: border-box;
-   font-size: 18px;
-   }
-   40%{
-   background-color: #dddd;
-   padding: 0px 7px;
-   box-sizing: border-box;
-   font-size: 19px;
-   }
-   50%{
-   background-color: #dddd;
-   padding: 0px 6px;
-   box-sizing: border-box;
-   font-size: 20px;
-   }
-   60%{
-   background-color: #dddd;
-   padding: 0px 7px;
-   box-sizing: border-box;
-   font-size: 19px;
-   }
-   70%{
-   background-color: #dddd;
-   padding: 0px 8px;
-   box-sizing: border-box;
-   font-size: 18px;
-   }
-   80%{
-   background-color: #dddd;
-   padding: 0px 9px;
-   box-sizing: border-box;
-   font-size: 17px;
    }
    100%{
       background-color: #dddd;
