@@ -10,10 +10,13 @@ export default class ListaDeAlumnos extends React.Component {
 
    filtrarPorLetra = () => {
       let variableAFiltrar = prompt()
-      if (variableAFiltrar !== '') {
+      if (variableAFiltrar !== '' && variableAFiltrar.length == 1) {
          const result = this.state.alumnos.filter(e => e.first_name.includes(variableAFiltrar))
          this.setState({ alumnos: result })
-      } else {
+      } else if (variableAFiltrar !== '' && variableAFiltrar.length > 1){
+         alert('No puedes introducir mas de 1 caracteres')
+      } 
+      else{
          alert('No se filtro ya que no se ha ingresado ninguna letra')
       }
 
